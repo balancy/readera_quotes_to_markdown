@@ -1,0 +1,4 @@
+__pyacache__
+.venv
+*.md
+*.txt
